@@ -1,5 +1,5 @@
 {
-    "name": "zf-commons/zfc-admin",
+    "name": "jbmchd/zf2-zfcadmin",
     "description": "A generic Admin module for ZF2.",
     "license": "BSD-3-Clause",
     "type": "library",
